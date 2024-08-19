@@ -12,7 +12,7 @@
 
 ``Ethical use of port scanners requires permission from the network owner. They're frequently employed in vulnerability assessments, network inventory, and compliance checks, playing a crucial role in maintaining robust cybersecurity defenses.``
 
-# **Instructions :**
+# **Instructions**
 
 > 1. ``git clone https://github.com/CryptoQuestVikas/PortScanner.git``
 > 2. ``cd PortScanner``
@@ -30,7 +30,7 @@
 > 5. python advanced_port_scanner_with_os.py 192.168.1.1 -p 1-1000 -t syn -T 200
 > 6. python advanced_port_scanner_ipv6.py 192.168.1.1 -p 1-1000 -t syn -T 200
 
-# **Screenshots :**
+# **Screenshots**
 ![](img/1.png)
 ![](img/2.png)
 ![](img/3.png)
