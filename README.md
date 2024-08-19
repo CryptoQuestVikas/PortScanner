@@ -15,3 +15,10 @@
 > 4. python advanced_port_scanner_with_versions.py 192.168.1.1 -p 1-1000 -t connect -T 200
 > 5. python advanced_port_scanner_with_os.py 192.168.1.1 -p 1-1000 -t syn -T 200
 > 6. python advanced_port_scanner_ipv6.py 192.168.1.1 -p 1-1000 -t syn -T 200
+
+# **Screenshots :**
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
+![](img/4.png)
+![](img/5.png)
